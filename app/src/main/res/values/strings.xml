@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeberAgua</string>
+    <string name="tips">Toque no botão para indicar a quantidade de ml consumidos</string>
+    <string name="small">200ml</string>
+    <string name="medium">500ml</string>
+    <string name="large">700ml</string>
+    <string name="today">Hoje</string>
+    <string name="undo">Desfazer</string>
+    <string name="result">%1$dml</string>
+</resources>
